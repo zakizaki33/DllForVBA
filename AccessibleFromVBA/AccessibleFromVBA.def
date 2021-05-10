@@ -1,0 +1,6 @@
+LIBRARY AccesibleFromVba
+
+EXPORTS 
+	DoNothing
+	GetNumberI
+	GetNumberI2
